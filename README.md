@@ -1,2 +1,2 @@
-# education
+# Education
 яндекс практикум
